@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IGPinkUtilsLib</string>
+    <string name="share_cancel">分享取消</string>
+    <string name="share_success">分享成功</string>
+    <string name="share_failure">分享出错</string>
+    <string name="no_weibo_client">未安装微博客户端</string>
+</resources>

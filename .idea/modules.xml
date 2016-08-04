@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IGPinkUtils.iml" filepath="$PROJECT_DIR$/IGPinkUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/igpinkUtilsLib/igpinkUtilsLib.iml" filepath="$PROJECT_DIR$/igpinkUtilsLib/igpinkUtilsLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weiboSDK/weiboSDK.iml" filepath="$PROJECT_DIR$/weiboSDK/weiboSDK.iml" />
     </modules>
   </component>
 </project>
